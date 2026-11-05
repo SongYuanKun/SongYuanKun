@@ -1,12 +1,13 @@
-```text
+```
 ╔══════════════════════════════════════╗
-║     Koen · 任我坤 / 宋苑坤           ║
-║     "一个不想只写业务代码的程序员"    ║
+║     任我坤（Koen）· 宋元坤           ║
+║     AI 说改好了，我上线点一遍才信     ║
 ╚══════════════════════════════════════╝
 ```
 
-7 年 Java 后端出身，现在全栈 + 独立开发。  
-喜欢把重复工作做成工具，把零散信息整理成系统，把热点数据串成内容流水线。
+全栈。本机工具 + AI 工程化；只写自己跑通过的坑。
+
+个人站点：[koen.songyuankun.top](https://koen.songyuankun.top)
 
 ---
 
@@ -14,20 +15,19 @@
 
 | 项目 | 链接 | 做什么 |
 |------|------|--------|
-| 🧰 **Koen 工具箱** | [tools.songyuankun.top](https://tools.songyuankun.top) | 开发者工具导航站，60+ 在线工具、AI 资源与博客 |
-| 🥇 **Au 贵金属平台** | [au.songyuankun.top](https://au.songyuankun.top) | 实时金价/银价看板、趋势图、历史数据查询 |
-| 🌐 **个人首页** | [koen.songyuankun.top](https://koen.songyuankun.top) | 个人作品集与品牌展示 |
+| **Koen 工具箱** | [tools.songyuankun.top](https://tools.songyuankun.top) | 本机运行的开发者工具 |
+| **AI 智库** | [zhiku.songyuankun.top](https://zhiku.songyuankun.top) | Agent 情报 |
+| **个人首页** | [koen.songyuankun.top](https://koen.songyuankun.top) | 个人站点与入口 |
+| **Au 贵金属** | [au.songyuankun.top](https://au.songyuankun.top) | 金价/银价看板与历史数据（副产品） |
 
 ---
 
-## 正在做的事
+## 最近在做
 
-**TrendRadar AI 内容自动化**  
-热点采集 → LLM 分析 → 博客/多平台内容输出。把「今天什么值得写」这件事从人工筛选变成半自动流水线。  
-（项目代码在组织仓库内，暂未开源）
+**TrendRadar**  
+热点采集 → LLM 分析 → 多平台内容输出（代码暂未开源）。
 
-**AI 工程实践**  
-在真实产品里用 LLM，不在 demo 里用。MCP、AI pipeline、自动化工作流的落地经验。
+本机工具与 AI 工程化落地，只写跑通过的部分。
 
 ---
 
@@ -42,11 +42,14 @@ AI         LLM workflow · MCP · content automation pipeline
 
 ---
 
-## RSS 精神续命
+## 链接
 
-Blog: [tools.songyuankun.top/pages/blog/](https://tools.songyuankun.top/pages/blog/)  
-GitHub: [github.com/SongYuanKun](https://github.com/SongYuanKun)  
-CSDN: [blog.csdn.net/syk123839070](https://blog.csdn.net/syk123839070)
+- 个人站点：[koen.songyuankun.top](https://koen.songyuankun.top)
+- Koen 工具箱：[tools.songyuankun.top](https://tools.songyuankun.top)
+- AI 智库：[zhiku.songyuankun.top](https://zhiku.songyuankun.top)
+- 掘金：[juejin.cn/user/1767670425871703](https://juejin.cn/user/1767670425871703)
+- CSDN：[blog.csdn.net/syk123839070](https://blog.csdn.net/syk123839070)
+- 小红书 宋小小：[xiaohongshu.com/user/profile/69082862000000003201fedb](https://www.xiaohongshu.com/user/profile/69082862000000003201fedb)
 
 ---
 
